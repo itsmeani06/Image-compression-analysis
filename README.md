@@ -7,7 +7,7 @@ This project demonstrates the application of three different algorithms—K-mean
 **Principal Component Analysis (PCA)**: A dimensionality reduction technique that compresses images by reducing the number of principal components.
 ## Time Complexity Analysis
 Each algorithm's computational efficiency is analyzed by measuring the time taken to process images of different sizes. The time complexity is plotted as graphs, making it easier to compare the performance of K-means, DCT, and PCA. This analysis helps in understanding the trade-offs between compression quality and processing time for each algorithm.
-## How to Run the Project
+### How to Run the Project
 ### 1) Clone the Repository:
 `git clone https://github.com/itsmeani06/Image-compression-analysis-using-different-algorithms.git
 cd Image-compression-analysis-using-different-algorithms`
