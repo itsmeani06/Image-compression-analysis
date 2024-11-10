@@ -1,4 +1,4 @@
-This project demonstrates the application of three different algorithms—K-means clustering, Discrete Cosine Transform (DCT), and Principal Component Analysis (PCA)—for compressing images and analyzing their performance. The entire process is implemented in a Jupyter Notebook, providing an interactive environment for both image compression and time complexity analysis.
+This project showcases the use of three algorithms—K-means clustering, Discrete Cosine Transform (DCT), and Principal Component Analysis (PCA)—for image compression, with a comparative analysis of their performance. Implemented in a Jupyter Notebook, it offers an interactive platform for both image compression and time complexity evaluation.
 
 ## Project Overview
 ### Algorithms Implemented
